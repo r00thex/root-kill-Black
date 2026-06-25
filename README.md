@@ -39,7 +39,7 @@
 # install
 
 ```
-git clone 
+git clone https://github.com/r00thex/root-kill-Black.git
 cd root-kill-Black.py
 pip install -r requirements.txt
 python rootBlack.py
