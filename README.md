@@ -1,14 +1,7 @@
 # root_kill-Black
 - A powerful and useful tool for web hacking enthusiasts
 
-## Screenshot in Windows
-<img src="menu.png"/>
-
-## options
-
-<img src=''/>
-
-```
+## Windows tools 🔥 
 [+] Grab .spider + Debug 
 [+] Aws key generator(awskey|secretkey|region)
 [+] Grab .spider + Debug (Auto Scan)  
@@ -47,14 +40,12 @@
 
 ```
 git clone 
+cd root-kill-Black.py
 pip install -r requirements.txt
-python root-kill-Black.py
+python rootBlack.py
 ```
 
 `For a better installation, type `pip install -r requirements.txt` after entering the directory to install the modules.
 If you don't want it or if you have problems, the black spider will automatically install the prerequisites`
-
-## screenshot in Linux
-<img src='menu-linux.png'/>
 
 Telegram : https://t.me/TEAM_BD_DARK_FOREF
